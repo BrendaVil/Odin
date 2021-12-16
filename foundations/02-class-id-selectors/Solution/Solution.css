@@ -1,0 +1,22 @@
+* {
+    font-family: verdana,sans-serif;
+}
+
+p {
+    background-color: rgb(255,192,203);
+}
+
+#numb2 {
+    color:rgb(0,0,255);
+    font-size: 36px;
+}
+
+p.numb3 {
+    font-size: 24px;
+}
+
+#numb4 {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
